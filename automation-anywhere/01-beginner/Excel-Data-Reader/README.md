@@ -1,4 +1,4 @@
-# AA-01 — Excel Data Reader & Salary Classifier
+# Excel Data Reader & Salary Classifier
 
 > An Automation Anywhere Automation 360 bot for reading employee records from Excel, processing salary data, applying business rules, and displaying the processed results.
 
